@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Vazir;
+    src: url(./../webfonts/Vazir-Regular-FD.ttf);
+    font-weight: normal;
+    font-style: normal;
+  }
+ 
+  /* * */
+  #wrapper {
+    min-height: 100vh;
+    width: 100%;
+    text-align: right;
+    font-family: Vazir;
+  }
+  .slider-for{
+      height: 50px;
+  }
+  .slick-slide{
+	  display:flex !important;
+	  justify-content:center;
+	  align-items:center;
+  }
+  img{
+	  width:150px;
+	  height:126px;
+  }
+  
