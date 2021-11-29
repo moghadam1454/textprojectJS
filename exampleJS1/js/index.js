@@ -1,4 +1,4 @@
-
+/* برنامه ای بنویسید که 2 عدد از کاربر دریافت کرده و عملیات ضرب ، تقسیم ، جمع یا تفریق  را روی آن ها پیاده سازی کند*/
 		var number1 = prompt("لطفا عدد اول را وارد کنید:")
 		
 		var number2 = prompt("لطفا عدد دوم را وارد کنید:")
@@ -15,4 +15,4 @@
 
 		var zarbResult = number1TypeNumber * number2TypeNumber
 
-		alert(zarbResult)
+		alert(zarbResult);
